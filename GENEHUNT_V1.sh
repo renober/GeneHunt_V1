@@ -1,4 +1,6 @@
 #!/bin/bash
+
+#R. Berlemont - renoberlemont@gmail.com
 #This Script requires the HMMer package (see http://hmmer.org)
 #This Script requires Pfam-A.hmm... if you need it, run the folowinf command in the terminal to dowload the db in you current directory.
 #wget ftp://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz
